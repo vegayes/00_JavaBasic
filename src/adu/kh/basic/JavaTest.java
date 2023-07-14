@@ -46,7 +46,11 @@ public class JavaTest {
 		// -> 문자열 + 숫자 or 문자열 + 문자열 --> 이어쓰기
 
 		
-		
+		/*
+		 * workspace :: import project -> General -> Existing Projexts into Workspace -> select :: Browse :: 주소  => 같은 공간에 있는 폴더만 가능! 
+ 			file -> open project file system -> directory -> 가져오기 
+		 * 
+		 */
 		
 		
 		
