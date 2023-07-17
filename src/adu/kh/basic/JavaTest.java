@@ -47,10 +47,15 @@ public class JavaTest {
 
 		
 		/*
-		 * workspace :: import project -> General -> Existing Projexts into Workspace -> select :: Browse :: 주소  => 같은 공간에 있는 폴더만 가능! 
+		 * workspace :: import project -> General -> Existing Projects into Workspace -> select :: Browse :: 주소  => 같은 공간에 있는 폴더만 가능! 
  			file -> open project file system -> directory -> 가져오기 
 		 * 
 		 */
+		
+
+		
+		
+		
 		
 		
 		
